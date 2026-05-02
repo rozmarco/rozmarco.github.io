@@ -4,10 +4,12 @@ excerpt: "Designed and trained a physics-based RL policy for a continuum robot t
 cluttered environments by exploiting contact — outperforming a geometric baseline by 20 
 percentage points."
 collection: portfolio
+header:
+  teaser: images/rl-tdcr-env.png
 ---
 
 **Problem:** Traditional motion planners for continuum robots treat contact as a failure 
-condition. In cluttered surgical or inspection environments this is too conservative — contact 
+condition. In cluttered or inspection environments this is too conservative — contact 
 with obstacles is often unavoidable and can be exploited to reach otherwise inaccessible goals.
 
 ![MuJoCo simulation environment perspective view](/images/rl-tdcr-env-perspective.png)
