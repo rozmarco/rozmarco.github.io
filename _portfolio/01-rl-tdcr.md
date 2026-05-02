@@ -10,8 +10,8 @@ collection: portfolio
 condition. In cluttered surgical or inspection environments this is too conservative — contact 
 with obstacles is often unavoidable and can be exploited to reach otherwise inaccessible goals.
 
-![MuJoCo simulation environment perspective view](../images/rl-tdcr-env-perspective.png)
-![MuJoCo simulation environment top view](../images/rl-tdcr-env-top.png)
+![MuJoCo simulation environment perspective view](/images/rl-tdcr-env-perspective.png)
+![MuJoCo simulation environment top view](/images/rl-tdcr-env-top.png)
 
 **My contribution:** This was a graduate course project (MIE1630) that I conceived and led. 
 My specific contributions:
@@ -36,7 +36,7 @@ goal configurations under full MuJoCo physics, compared to 40.1% for the geometr
 The policy successfully threads narrow ~5 cm inter-obstacle corridors where kinematic plans 
 fail under real physics — backbone compliance, friction, and actuator dynamics included.
 
-![Success rate heatmap across workspace](../images/rl-tdcr-results.png)
+![Success rate heatmap across workspace](/images/rl-tdcr-results.png)
 
 *Simulation video available upon request.*
 
