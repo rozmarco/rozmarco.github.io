@@ -1,6 +1,7 @@
 ---
 title: "Robotic Food Handling Utilizing Temperature Dependent Variable-Stiffness Material"
 collection: publications
+category: conferences
 permalink: /publication/2024-icarob-gripper
 excerpt: 'A variable-stiffness robotic gripper using temperature-dependent compliant material for handling food items with diverse physical properties.'
 date: 2024-02-22
