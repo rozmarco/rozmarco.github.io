@@ -1,6 +1,7 @@
 ---
 title: "Automated Planning Domain Inference for Task and Motion Planning"
 collection: publications
+category: conferences
 permalink: /publication/2025-icra-planning
 excerpt: 'Automated inference of planning domains for integrated task and motion planning in robotics.'
 date: 2025-05-19
