@@ -48,14 +48,14 @@ fail under real physics — backbone compliance, friction, and actuator dynamics
     <h3>Physical demonstration</h3>
     <video controls playsinline preload="metadata"
            style="display: block; width: 100%; height: auto;">
-      <source src="/files/videos/99.mp4" type="video/mp4">
+      <source src="/files/videos/35.mp4" type="video/mp4">
       Your browser does not support HTML video.
     </video>
   </div>
 
   <div style="flex: 1 1 300px; min-width: 0;">
     <h3>Robot trajectory</h3>
-    <img src="/images/rl-tdcr/trajectory.png"
+    <img src="/images/rl-tdcr/35_vid.png"
          alt="Planned robot trajectory through the environment"
          style="display: block; width: 100%; height: auto;">
   </div>
