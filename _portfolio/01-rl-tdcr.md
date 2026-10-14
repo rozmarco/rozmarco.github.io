@@ -40,8 +40,6 @@ fail under real physics — backbone compliance, friction, and actuator dynamics
 
 ![Success rate heatmap across workspace](/images/rl-tdcr-results.png)
 
-**Demonstration and trajectory**
-
 <video controls playsinline preload="metadata" width="100%">
   <source src="https://rozmarco.github.io/files/videos/99.mp4" type="video/mp4">
   Your browser does not support HTML video.
