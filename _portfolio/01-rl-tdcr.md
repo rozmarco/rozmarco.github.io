@@ -44,13 +44,13 @@ fail under real physics — backbone compliance, friction, and actuator dynamics
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://docs.google.com/presentation/d/1IU6Nf6CIuJABqPL0uDOccSY2poR49zBh2R-pdnnPa9s/embed?start=false&loop=false"
+    src="https://docs.google.com/presentation/d/1IU6Nf6CIuJABqPL0uDOccSY2poR49zBh2R-pdnnPa9s/embed?start=false&amp;loop=false"
     title="Contact-Aware Navigation for Tendon-Driven Continuum Robots Using Reinforcement Learning"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     allowfullscreen>
   </iframe>
 </div>
 
-[Project Slides](https://docs.google.com/presentation/d/1IU6Nf6CIuJABqPL0uDOccSY2poR49zBh2R-pdnnPa9s/edit)
+[View presentation in Google Slides](https://docs.google.com/presentation/d/1IU6Nf6CIuJABqPL0DOccSY2poR49zBh2R-pdnnPa9s/edit)
 
 **Tools:** Python, MuJoCo, PyTorch, SAC, Gymnasium, Linux, CUDA
