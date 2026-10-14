@@ -5,7 +5,7 @@ cluttered environments by exploiting contact — outperforming a geometric basel
 percentage points."
 collection: portfolio
 header:
-  teaser: images/rl-tdcr-env.png
+  teaser: images/rl-tdcr-env-top.png
 ---
 
 **Problem:** Traditional motion planners for continuum robots treat contact as a failure 
@@ -40,17 +40,29 @@ fail under real physics — backbone compliance, friction, and actuator dynamics
 
 ![Success rate heatmap across workspace](/images/rl-tdcr-results.png)
 
-**Project presentation**
+**Demonstration and trajectory**
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe
-    src="https://docs.google.com/presentation/d/1IU6Nf6CIuJABqPL0uDOccSY2poR49zBh2R-pdnnPa9s/embed?start=false&amp;loop=false"
-    title="Contact-Aware Navigation for Tendon-Driven Continuum Robots Using Reinforcement Learning"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    allowfullscreen>
-  </iframe>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+
+  <div style="flex: 1 1 300px; min-width: 0;">
+    <h3>Physical demonstration</h3>
+    <video controls playsinline preload="metadata"
+           style="display: block; width: 100%; height: auto;">
+      <source src="/files/videos/99.mp4" type="video/mp4">
+      Your browser does not support HTML video.
+    </video>
+  </div>
+
+  <div style="flex: 1 1 300px; min-width: 0;">
+    <h3>Robot trajectory</h3>
+    <img src="/images/rl-tdcr/trajectory.png"
+         alt="Planned robot trajectory through the environment"
+         style="display: block; width: 100%; height: auto;">
+  </div>
+
 </div>
 
+**Project presentation**
 [View presentation in Google Slides](https://docs.google.com/presentation/d/1IU6Nf6CIuJABqPL0DOccSY2poR49zBh2R-pdnnPa9s/edit)
 
 **Tools:** Python, MuJoCo, PyTorch, SAC, Gymnasium, Linux, CUDA
