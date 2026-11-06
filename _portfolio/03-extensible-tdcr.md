@@ -2,6 +2,8 @@
 title: "Open-Source Extensible Tendon-Driven Continuum Robot"
 excerpt: "Designed, fabricated, and characterized a two-segment TDCR with a novel magnetically self-distributing extensible degree of freedom — with full open-source design files and assembly documentation."
 collection: portfolio
+header:
+  teaser: e-tdcr/overlay.jpg
 ---
 
 **Problem:** Most continuum robot platforms lack an extensible degree of freedom, limiting 

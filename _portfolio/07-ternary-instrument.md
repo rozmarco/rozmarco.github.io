@@ -2,6 +2,8 @@
 title: "Ternary-Encoded Dual-Key Musical Instrument"
 excerpt: "1st place, IEEE Solid-State Circuits Society Arduino Contest 2023. A two-key instrument capable of playing full melodies using ternary encoding — hardware-software co-design in C++."
 collection: portfolio
+header:
+  teaser: ternary/award_homepage.png
 ---
 
 **Problem:** Standard digital instruments map one key to one note. The challenge: design a 

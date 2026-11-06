@@ -5,7 +5,7 @@ cluttered environments by exploiting contact — outperforming a geometric basel
 percentage points."
 collection: portfolio
 header:
-  teaser: images/rl-tdcr-env-top.png
+  teaser: rl-tdcr/35_teaser.png
 ---
 
 **Problem:** Traditional motion planners for continuum robots treat contact as a failure 
