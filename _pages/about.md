@@ -39,7 +39,7 @@ for a [ternary-encoded two-key musical instrument](/portfolio/07-ternary-instrum
 - **ESROP Global Fellowship**, University of Toronto, and **FrontierLab Mini**, Osaka University (2023), 
 supporting my research placement in Japan
 
-![Poster competition award recipients at the 2026 Toronto Robotics Conference](/images/about/trc-2026-poster-award.jpg)
+[![Poster competition award recipients at the 2026 Toronto Robotics Conference](/images/about/trc-2026-poster-award.jpg)](https://crl.utm.utoronto.ca/2026/07/23/trc.html)
 *Poster competition award recipients at the 2026 Toronto Robotics Conference.*
 
 ## Selected Activities

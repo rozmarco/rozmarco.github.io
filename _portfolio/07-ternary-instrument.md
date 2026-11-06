@@ -3,7 +3,7 @@ title: "Ternary-Encoded Dual-Key Musical Instrument"
 excerpt: "1st place, IEEE Solid-State Circuits Society Arduino Contest 2023 (Undergraduate). A two-key Arduino instrument that plays melodies by encoding each note as two base-3 digits read from a light sensor."
 collection: portfolio
 header:
-  teaser: ternary/ternary-teaser.png
+  teaser: ternary/ternary-teaser.jpg
 ---
 
 **Problem:** A conventional keyboard needs one key per note. The challenge was to build an 
