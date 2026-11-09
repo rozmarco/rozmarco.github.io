@@ -24,6 +24,8 @@ fabric so it holds its curved shape even when softened. The curved base leaves a
 between the fabric and base, guiding the fabric underneath items so the gripper can pick up 
 flat, low-profile foods without them slipping through.
 
+![Gripper front and three-quarter views with the variable-stiffness fabric, and the CAD side profile showing the curved base](/images/osaka-gripper/gripper-design.png)
+
 I then ran two sets of experiments:
 
 1. **Force characterization** at two temperatures and three displacements (10, 20, 30 mm). 
@@ -34,6 +36,8 @@ the object.
 2. **Food picking** with 8 items chosen to be heavy, slippery, fragile, flat, or rigid, picked 
 one at a time, from stacks, and in combined sequences, with the gripper mounted on an 
 industrial robot using a depth camera for item localization and force feedback for closing.
+
+![Force over a simulated grasp at each temperature and displacement: the cool fabric (blue) applies more force than the warm fabric (red), and force drops to a steady value during the hold](/images/osaka-gripper/force-vs-time.png)
 
 **Result:** All eight food items were successfully grasped and transported. The failed 
 attempts came from grasp-position misalignment (item off-centre, or grasp height mismatched 

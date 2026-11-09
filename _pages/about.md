@@ -8,26 +8,26 @@ redirect_from:
 ---
 
 I'm a MASc student in Mechanical Engineering at the University of Toronto, working in the 
-[Continuum Robotics Laboratory](https://crl.utm.utoronto.ca/) under Prof. Jessica Burgner-Kahrs. 
-My research focuses on contact-rich manipulation with compliant robots. I combine embedded 
-magnetic sensing with model-based estimation so that tendon-driven continuum robots can infer 
-external contact with their surroundings, to improve teleoperation and to bring contact 
-information into control loops.
+[Continuum Robotics Laboratory](https://crl.utm.utoronto.ca/), supervised by Prof. Jessica Burgner-Kahrs.
+My research focuses on contact sensing for compliant robots. I combine embedded magnetic sensing 
+with model-based estimation so that tendon-driven continuum robots can infer external contact 
+with their surroundings, to improve teleoperation and to bring contact information into control loops.
 
 Before my MASc, I completed a BASc in Engineering Science (Electrical and Computer Engineering) 
 at the University of Toronto with honours. For my undergraduate thesis, I built an 
 [open-source extensible continuum robot](/portfolio/03-extensible-tdcr/) for research and 
 education. As an undergraduate researcher, I also worked in the Harada Lab at Osaka University, 
-where I designed a [variable-stiffness gripper for food handling](/portfolio/04-osaka-gripper/) 
-and published my first first-author paper, and in the STARS Laboratory at the University of 
-Toronto with Prof. Jonathan Kelly, where I co-authored an ICRA 2025 paper on inferring planning 
-domains for task and motion planning and presented its spotlight talk and poster.
+where I designed a [variable-stiffness gripper for food handling](/portfolio/04-osaka-gripper/), 
+work that was published at ICAROB 2024. At the STARS Laboratory at the University of Toronto, I 
+worked with Prof. Jonathan Kelly's group on a neurosymbolic task and motion planning project, 
+where I built and filmed the real-world demonstration on a Franka manipulator. The project was 
+published at ICRA 2025, where I presented the talk and poster.
 
 ## Research Interests
 
-- Embedded sensing and state estimation for compliant manipulators
-- Reinforcement learning for contact-rich manipulation
-- Open-source robot platform development
+- Contact and tactile sensing for soft and continuum robots
+- Robot learning for contact-aware control and navigation
+- Open-source, reproducible robot hardware
 
 ## Awards & Honours
 
